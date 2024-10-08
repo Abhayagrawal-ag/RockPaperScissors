@@ -1,0 +1,135 @@
+body{
+    background-color: rgb(65, 65, 78);
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: bisque;
+    text-decoration: underline;
+
+}
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: beige;
+    border-radius: 50%;
+}
+
+#box2{
+    height: 100px;
+    width: 100px;
+    background-color:beige;
+    border-radius: 50%;
+}
+
+#box3{
+    height: 100px;
+    width: 100px;
+    background-color: beige;
+    border-radius: 50%;
+}
+#container1{
+     display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+}
+#box4{
+    
+    margin-left: 650px;
+    background-color: rgb(238, 238, 131);
+}
+#box5{
+    margin-left: 100px;
+    background-color: rgb(238, 238, 131);
+}
+#box6{
+    height: 40px;
+    width: 300px;
+    background-color: rgb(146, 145, 146);
+    margin-left: 620px;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    
+    
+
+}
+#box7{
+    background-color: rgb(159, 199, 235);
+    margin-left: 720px;
+    margin-top: 20px;
+}
+#box8{
+    height: 20px;
+    width: 110px;
+    background-color: rgb(159, 199, 235);
+    margin-left: 713px;
+    text-align: center;
+    font-size: medium;
+    font-weight: bolder;
+}
+#box9{
+    height: 40px;
+    width: 40px;
+    background-color:rgb(159, 199, 235);
+    margin-left: 750px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+#box10{
+    height: 40px;
+    width: 150px;
+    background-color: cadetblue;
+    margin-left: 692px;
+    text-align: center;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+#box11{
+    height: 40px;
+    width: 110px;
+    background-color: rgb(250, 233, 212);
+    margin-left: 713px;
+    text-align: center;
+    font-size: medium;
+    font-weight: bolder;
+}
+#box12{
+    height: 40px;
+    width: 40px;
+    background-color:rgb(250, 233, 212);
+    margin-left: 750px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+#box13{
+    height: 40px;
+    width: 110px;
+    background-color: rgb(254, 193, 114);
+    margin-left: 713px;
+    text-align: center;
+    font-size: medium;
+    font-weight: bolder;
+}
+#box14{
+    height: 40px;
+    width: 40px;
+    background-color:rgb(254, 193, 114);
+    margin-left: 750px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+}
